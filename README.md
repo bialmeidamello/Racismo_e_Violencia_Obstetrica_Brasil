@@ -4,6 +4,7 @@ Destacar as nuances da violência obstétrica, demonstrando empiricamente que n�
 
 ### Bancos de dados utilizados
 [PNS 2013 e 2019](https://www.pns.icict.fiocruz.br/painel-de-indicadores-mobile-desktop/ )
+
 [DATASUS- Painel de Monitoramento da Mortalidade Materna](https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/mortalidade/materna/)
 
 ### Tecnologias Utilizadas
